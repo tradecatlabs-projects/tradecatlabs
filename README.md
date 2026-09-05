@@ -30,7 +30,7 @@ https://docs.google.com/spreadsheets/d/1q-2sXGsFYsKf3nV5u5golTVrLH5sfc0doiWwz_ka
 
 ### 交易猫：市场数据和另类数据获取器
 
-https://github.com/tradecatlabs/tradecat
+https://github.com/tradecatlabs/tradecat-public
 
 ### 预测猫：预测市场数据
 
